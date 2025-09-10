@@ -17,7 +17,7 @@ Puedes obtener todas las frases, obtener una aleatoria o agregar nuevas frases.
 
 <ol>
   <h2>Instalación</h2>
-  <li>git clone https://github.com/usuario/api-frases-motivacionales.git</li>
+  <li>git clone https://github.com/jriverah46/generadorFrasesMotivacionales.git</li>
   <li>npm install</li>
 </ol>
 
